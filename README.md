@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jihed Ben Zarb</h1>
 <h3 align="center">A technology enthusiast and an engineering student . I am aiming to have a great impact in the IT field, and be one of its brightest people .</h3>
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/stickers/pudgypenguins-data-code-coding-SHjOSDkKZ18qOHA5B5)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihed-sh&label=Profile%20views&color=0eb429&style=flat" alt="jihed-sh" /> </p>
 
