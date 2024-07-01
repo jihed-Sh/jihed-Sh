@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jihed Ben Zarb</h1>
-<h3 align="center">A technology enthusiast and an engineering student . I am aiming to have a great impact in the IT field, and be one of its brightest people .</h3>
+<h3 align="center">A technology enthusiast and a Software Engineer. I am aiming to have a great impact in the IT field and be one of its brightest people .</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300"/>
 </div>
