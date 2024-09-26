@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jihed.benzarb@gmail.com**
 
-- ⚡ Fun fact **since i play a lot of video games , i see IT as a video game world where whenever you learn a new skill or overcome a certain challenge , you can move forward in that game**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
