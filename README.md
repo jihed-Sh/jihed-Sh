@@ -1,63 +1,38 @@
-<h1 align="center">Hi 👋, I'm Jihed Ben Zarb</h1>
-<h3 align="center">A passionate Software Engineer and technology enthusiast, on a mission to create, innovate, and inspire.</h3>
-
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkaHFjeDczMjZrNmxyN3BjMzBnaWZvamZ5dHB1OHFwMTBma2dweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" width="800" height="200"/>
-</div>
-
+<h1 align="center">Jihed Ben Zarb</h1>
+<p align="center">Software Engineer</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jihed-sh&label=Profile%20views&color=0eb429&style=flat" alt="Profile views" />
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkaHFjeDczMjZrNmxyN3BjMzBnaWZvamZ5dHB1OHFwMTBma2dweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" width="600" /> -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R5b3k0dm5tZWE2bzQ1Z3F0cHoxZjBtZXh6Y2lnYzVpYmM5YnVraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gJz2I26VIESkfuIxUD/giphy.gif" height ="200" width="400" /> 
+  
 </p>
 
+---
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jihed-sh&theme=flat&no-frame=true&column=4" alt="GitHub Trophies" />
-  </a>
+  عَلى قَدْرِ أهْلِ العَزْم تأتي العَزائِمُ ... وَتأتي علَى قَدْرِ الكِرامِ المَكارِمُ <br>
+  <i>"What I cannot create, I do not understand." — Richard Feynman</i>
 </p>
 
 ---
 
-### 📫 How to reach me
+### About
+I am a software engineer driven by the curiosity of how things work at the foundational level. I view the entire technical stack—from the kernel to the cloud—not as an identity, but as a set of tools to be mastered. 
 
-- Email: **jihed.benzarb@gmail.com**
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jihed-ben-zarb-43407a1a6/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/theonlyjihed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/jihedcr7" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+Currently based in Luxembourg, focused on building robust, scalable software and solving complex engineering challenges.
 
 ---
 
-<!--
-### 🚀 Technologies & Tools
+### Core Tech
+**Languages:** Java, Rust, TypeScript, Python, C/C++, Go  
+**Environment:** Linux (OpenSUSE), AWS, Docker, Kubernetes
 
-You can uncomment this section if you want to show your tech stack:
+---
 
-<p align="left">
-  <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  ...
+### Connect
+[LinkedIn](https://www.linkedin.com/in/jihed-ben-zarb/) / [LeetCode](https://www.leetcode.com/jihedcr7) / [Codeforces](https://codeforces.com/profile/theonlyjihed) / [Email](mailto:jihed.benzarb@gmail.com)
+
+---
+<p align="center">
+  <i>"Sell your cleverness and buy bewilderment." — Rumi</i> <br>
+  "You must have chaos within you to give birth to a dancing star." — Nietzsche
 </p>
--->
-
-<!--
-### 📊 GitHub Stats
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihed-sh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
--->
