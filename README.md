@@ -23,7 +23,7 @@ Currently based in Luxembourg, focused on building robust, scalable software and
 ---
 
 ### Core Tech
-**Languages:** Java, Rust, TypeScript, Python, C/C++, Go  
+**Languages:** Java, Rust(learning), TypeScript, Python, C/C++
 **Environment:** Linux (OpenSUSE), AWS, Docker, Kubernetes
 
 ---
